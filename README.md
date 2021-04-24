@@ -1,2 +1,4 @@
 # STM32F407_Gizwits_SmartHome
 基于STM32f407_机智云_智能家居设计
+
+该设计系学院比赛参赛项目
